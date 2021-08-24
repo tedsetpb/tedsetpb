@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tedsetpb
-- 👀 I’m interested in UX Design cek out my portfolio behance.net/tedsetpb
-- 🌱 I’m currently learning UX and AI
+- 👀 I’m interested in UX Design
 - 📫 If you need help, hit me up @tdisetiady@gmail.com
 
 <!---
